@@ -162,3 +162,8 @@ a:hover
     font-size: 0.75rem;
     padding: 20px 0px;
 }
+.mountain
+{
+    position: relative;
+    top: 7px;
+}
